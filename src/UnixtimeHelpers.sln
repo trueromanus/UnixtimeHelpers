@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnixtimeHelpers", "UnixtimeHelpers\UnixtimeHelpers.csproj", "{77BF5960-BD17-46CE-B34E-833C44C33339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnixtimeHelpers.UnitTests", "UnixtimeHelpers.UnitTests\UnixtimeHelpers.UnitTests.csproj", "{EEA973D0-4B77-467B-B7E9-18F2EC9ACB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnixTimeHelpersNET4_5_1", "UnixTimeHelpersNET4_5_1\UnixTimeHelpersNET4_5_1.csproj", "{ADC136E5-7E41-4FBD-AB7B-1978766595C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnixtimeHelpersNET4_0", "UnixtimeHelpersNET4_0\UnixtimeHelpersNET4_0.csproj", "{1BA3E91E-3162-441D-806B-D6A8C5699FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnixtimeHelpersNET_4_0_Client", "UnixtimeHelpersNET_4_0_Client\UnixtimeHelpersNET_4_0_Client.csproj", "{14F78BBA-6F3E-4C01-AE91-8010DD28923C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs14
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UnixtimeHelpers\\UnixtimeHelpers.csproj
+		SccProjectName1 = UnixtimeHelpers
+		SccLocalPath1 = UnixtimeHelpers
+		SccProjectUniqueName2 = UnixtimeHelpers.UnitTests\\UnixtimeHelpers.UnitTests.csproj
+		SccProjectName2 = UnixtimeHelpers.UnitTests
+		SccLocalPath2 = UnixtimeHelpers.UnitTests
+		SccProjectUniqueName3 = UnixTimeHelpersNET4_5_1\\UnixTimeHelpersNET4_5_1.csproj
+		SccProjectName3 = UnixTimeHelpersNET4_5_1
+		SccLocalPath3 = UnixTimeHelpersNET4_5_1
+		SccProjectUniqueName4 = UnixtimeHelpersNET4_0\\UnixtimeHelpersNET4_0.csproj
+		SccProjectName4 = UnixtimeHelpersNET4_0
+		SccLocalPath4 = UnixtimeHelpersNET4_0
+		SccProjectUniqueName5 = UnixtimeHelpersNET_4_0_Client\\UnixtimeHelpersNET_4_0_Client.csproj
+		SccProjectName5 = UnixtimeHelpersNET_4_0_Client
+		SccLocalPath5 = UnixtimeHelpersNET_4_0_Client
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BF5960-BD17-46CE-B34E-833C44C33339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF5960-BD17-46CE-B34E-833C44C33339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BF5960-BD17-46CE-B34E-833C44C33339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BF5960-BD17-46CE-B34E-833C44C33339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA973D0-4B77-467B-B7E9-18F2EC9ACB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA973D0-4B77-467B-B7E9-18F2EC9ACB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA973D0-4B77-467B-B7E9-18F2EC9ACB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA973D0-4B77-467B-B7E9-18F2EC9ACB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC136E5-7E41-4FBD-AB7B-1978766595C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC136E5-7E41-4FBD-AB7B-1978766595C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC136E5-7E41-4FBD-AB7B-1978766595C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC136E5-7E41-4FBD-AB7B-1978766595C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA3E91E-3162-441D-806B-D6A8C5699FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA3E91E-3162-441D-806B-D6A8C5699FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA3E91E-3162-441D-806B-D6A8C5699FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA3E91E-3162-441D-806B-D6A8C5699FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F78BBA-6F3E-4C01-AE91-8010DD28923C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F78BBA-6F3E-4C01-AE91-8010DD28923C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F78BBA-6F3E-4C01-AE91-8010DD28923C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F78BBA-6F3E-4C01-AE91-8010DD28923C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
