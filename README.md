@@ -40,3 +40,8 @@ DateTime result = UnixtimeHelper.ConvertToDateTime ( 1407912006 , TimeType.Local
 
 
 ```
+
+### Install via NuGet
+
+
+PM> Install-Package UnixtimeHelpers
