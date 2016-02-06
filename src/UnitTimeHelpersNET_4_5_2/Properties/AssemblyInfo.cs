@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle ( "UnixtimeHelpers" )]
+[assembly: AssemblyTitle ( "UnitTimeHelpers" )]
 [assembly: AssemblyDescription ( "Unixtime minimalistic convert functions" )]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany ( "EmptyFlow" )]
-[assembly: AssemblyProduct ( "UnixtimeHelpers" )]
-[assembly: AssemblyCopyright ( "Copyright © RomanAsylum 2014" )]
+[assembly: AssemblyProduct ( "UnitTimeHelpers" )]
+[assembly: AssemblyCopyright ( "Copyright © RomanAsylum 2016" )]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5aea0c37-bd80-4667-983d-34b5c207e420")]
+[assembly: Guid("cd767de1-7987-4138-9ba6-03b306ffa175")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion ( "1.0.5.*" )]
+[assembly: AssemblyVersion ( "1.0.5.0" )]
 [assembly: AssemblyFileVersion ( "1.0.5.0" )]

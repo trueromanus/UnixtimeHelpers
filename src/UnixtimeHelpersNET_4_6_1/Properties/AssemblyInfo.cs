@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany ( "EmptyFlow" )]
 [assembly: AssemblyProduct ( "UnixtimeHelpers" )]
-[assembly: AssemblyCopyright ( "Copyright © RomanAsylum 2014" )]
+[assembly: AssemblyCopyright ( "Copyright © RomanAsylum 2016" )]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5aea0c37-bd80-4667-983d-34b5c207e420")]
+[assembly: Guid("ef3119a4-8d24-4fdc-9a48-9a717394f41f")]
 
 // Version information for an assembly consists of the following four values:
 //
