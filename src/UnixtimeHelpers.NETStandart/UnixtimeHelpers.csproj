@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<VersionPrefix>1.0.6</VersionPrefix>
+		<Authors>RomanAsylum</Authors>
+		<Company>EmptyFlow</Company>
+		<Description>A very small library for converting unixtime.</Description>
+		<Copyright>Copyright (c) 2021 EmptyFlow</Copyright>
+		<PackageTags>unixtime</PackageTags>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<RepositoryUrl>https://github.com/trueromanus/UnixtimeHelpers</RepositoryUrl>
+		<Title>Nerv</Title>
+		<PackageProjectUrl>https://github.com/trueromanus/UnixtimeHelpers</PackageProjectUrl>
+		<PackageLicenseFile>LICENSE</PackageLicenseFile>
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Include="..\..\LICENSE">
+	    <Pack>True</Pack>
+	    <PackagePath></PackagePath>
+	  </None>
+	  <None Include="..\..\LICENSE">
+	    <Pack>True</Pack>
+	    <PackagePath></PackagePath>
+	  </None>
+	</ItemGroup>
+</Project>

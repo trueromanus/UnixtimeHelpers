@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/UnixtimeHelpers/v16
+/src/UnixtimeHelpers.NETStandart/bin/Debug/netstandard2.0
+/src/UnixtimeHelpers.NETStandart/obj
+/src/UnixtimeHelpersTests/bin/Debug/netcoreapp3.1
+/src/UnixtimeHelpersTests/obj
+/src/UnixtimeHelpers.NETStandart/bin/Release
+/src/UnixtimeHelpersTests/bin/Release/netcoreapp3.1
